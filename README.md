@@ -8,4 +8,5 @@ First of all the outliners are separated from the normal data.Therefore two sepa
 
 ## Implementation
 
-I have used this technique in this repository to identify plant leaves having disease or not.Diseased leaves are classifies as anomalies and hence are outliners to the dataset. The file "Neural Networks.ipynb" contains the code for Autoencoder and Classfication model.
+I have used this technique in this repository to identify plant leaves having disease or not.Diseased leaves are classified as anomalies and hence are outliners to the dataset. The file "Neural Networks.ipynb" contains the code for Autoencoder and Classfication model for the leaves.For testing purposes a frontend was designed with neural network as backend and deployed on the local network.
+
